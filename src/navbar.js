@@ -10,8 +10,8 @@ export default function Navbar () {
                 Meme Generator
                 </a>
             </div>
-            <div className='mx-5 text-white '>
-                React Course Project 3
+            <div className='mx-3 text-white '>
+                React Project
             </div>
         </div>
 
