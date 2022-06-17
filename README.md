@@ -1,3 +1,9 @@
+# This is React Meme generator Project. 
+You are given a random meme image and have to option to write your own witty lines to make your very own meme.
+
+The Website is deployed on https://fayaz-meme-generator.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
